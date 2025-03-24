@@ -161,6 +161,11 @@ leds-mtk.ko
 leds-mtk-disp.ko
 leds-mtk-pwm.ko
 rt4831a_drv.ko
+usb_notifier.ko
+usb_notify_layer.ko
+usb_f_conn_gadget.ko
+usb_f_dm.ko
+usb_f_ss_mon_gadget.ko
 extcon-mtk-usb.ko
 tcpci_late_sync.ko
 cache-parity.ko
@@ -194,11 +199,6 @@ sec_nfc.ko
 secchip.ko
 fingerprint.ko
 fingerprint_sysfs.ko
-usb_notifier.ko
-usb_notify_layer.ko
-usb_f_conn_gadget.ko
-usb_f_dm.ko
-usb_f_ss_mon_gadget.ko
 blk-sec-common.ko
 blk-sec-stats.ko
 ssg.ko
@@ -363,6 +363,11 @@ leds-mtk.ko
 leds-mtk-disp.ko
 leds-mtk-pwm.ko
 rt4831a_drv.ko
+usb_notifier.ko
+usb_notify_layer.ko
+usb_f_conn_gadget.ko
+usb_f_dm.ko
+usb_f_ss_mon_gadget.ko
 extcon-mtk-usb.ko
 tcpci_late_sync.ko
 cache-parity.ko
@@ -410,8 +415,3 @@ wt_rp_value.ko
 secchip.ko
 fingerprint.ko
 fingerprint_sysfs.ko
-usb_notifier.ko
-usb_notify_layer.ko
-usb_f_conn_gadget.ko
-usb_f_dm.ko
-usb_f_ss_mon_gadget.ko
